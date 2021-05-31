@@ -1,0 +1,6 @@
+module Pods_samyApp {
+  umbrella header "Pods-samyApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

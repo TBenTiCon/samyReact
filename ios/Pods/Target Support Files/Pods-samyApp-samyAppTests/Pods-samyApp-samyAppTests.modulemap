@@ -1,0 +1,6 @@
+module Pods_samyApp_samyAppTests {
+  umbrella header "Pods-samyApp-samyAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
