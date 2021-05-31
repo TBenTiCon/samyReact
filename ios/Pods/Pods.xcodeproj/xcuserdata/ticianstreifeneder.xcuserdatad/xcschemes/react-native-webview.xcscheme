@@ -14,9 +14,9 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2AB2EF542954AB1C999E03BFEF8DE806"
-               BuildableName = "libDoubleConversion.a"
-               BlueprintName = "DoubleConversion"
+               BlueprintIdentifier = "8D18C49071FC5370C25F5758A85BA5F6"
+               BuildableName = "libreact-native-webview.a"
+               BlueprintName = "react-native-webview"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
