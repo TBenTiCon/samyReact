@@ -6,7 +6,7 @@
  * @flow strict-local
  */
 
-import React from 'react';
+import React, {useEffect } from 'react'
 import type {Node} from 'react';
 import {
   SafeAreaView,
@@ -27,11 +27,18 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 import { WebView } from 'react-native-webview';
+import SplashScreen from 'react-native-splash-screen'
 import AutoHeightWebView from 'react-native-autoheight-webview'
 import { Dimensions } from 'react-native'
 
 
+
+
 const App: () => Node = () => {
+
+  React.useEffect(()=>{
+    SplashScreen.hide()
+  }, [])
 
 
   return (

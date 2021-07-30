@@ -64,12 +64,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-samyApp-samyAppTests.xcscheme</key>
+		<key>Pods-DealSale-DealSaleTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-samyApp.xcscheme</key>
+		<key>Pods-DealSale.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -215,6 +215,11 @@
 			<false/>
 		</dict>
 		<key>libevent.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>react-native-splash-screen.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
