@@ -41,7 +41,7 @@ const App: () => Node = () => {
         style={{ flex:1  }}>
 
 
-          <WebView style={{ height:1000  }} source={{ uri: 'https://app.samy.reversedstudios.com' }}></WebView>
+          <WebView style={{ height:1000  }} source={{ uri: 'https://app.dealsale.de/' }}></WebView>
 
 
       </ScrollView>

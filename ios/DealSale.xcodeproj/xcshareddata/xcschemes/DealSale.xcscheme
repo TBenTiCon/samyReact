@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "samyApp.app"
-               BlueprintName = "samyApp"
-               ReferencedContainer = "container:samyApp.xcodeproj">
+               BuildableName = "DealSale.app"
+               BlueprintName = "DealSale"
+               ReferencedContainer = "container:DealSale.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "samyAppTests.xctest"
-               BlueprintName = "samyAppTests"
-               ReferencedContainer = "container:samyApp.xcodeproj">
+               BuildableName = "DealSaleTests.xctest"
+               BlueprintName = "DealSaleTests"
+               ReferencedContainer = "container:DealSale.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "samyApp.app"
-            BlueprintName = "samyApp"
-            ReferencedContainer = "container:samyApp.xcodeproj">
+            BuildableName = "DealSale.app"
+            BlueprintName = "DealSale"
+            ReferencedContainer = "container:DealSale.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "samyApp.app"
-            BlueprintName = "samyApp"
-            ReferencedContainer = "container:samyApp.xcodeproj">
+            BuildableName = "DealSale.app"
+            BlueprintName = "DealSale"
+            ReferencedContainer = "container:DealSale.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
